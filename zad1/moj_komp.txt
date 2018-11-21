@@ -1,0 +1,4 @@
+pojemosc dysku: 919 GB
+ilosc pamieci RAM: 4,00 GB
+rodzaj i predkosc procesora: Intel(R) Core(TM) i3-5005U CPU @ 2,00GHz 2,00GHz
+system: 64-bitowy
